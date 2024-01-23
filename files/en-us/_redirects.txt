@@ -17,7 +17,7 @@
 /en-US/docs/AJAX:Getting_Started	/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
 /en-US/docs/AJAX:WAI_ARIA_Live_Regions/API_Support	/en-US/docs/Mozilla/Firefox/Releases/3/WAI_ARIA_Live_Regions_API_Support
 /en-US/docs/AJAX:WAI_ARIA_Live_Regions_API_Support	/en-US/docs/Mozilla/Firefox/Releases/3/WAI_ARIA_Live_Regions_API_Support
-/en-US/docs/API	/en-US/docs/Web/API
+/en-USxo/docs/API	/en-US/docs/Web/API
 /en-US/docs/API/File/Basic_Concepts_About_the_File_API	/en-US/docs/Web/API/File_and_Directory_Entries_API/Introduction
 /en-US/docs/API/File/Basic_concepts_about_file_api	/en-US/docs/Web/API/File_and_Directory_Entries_API/Introduction
 /en-US/docs/API/Full_Screen_API	/en-US/docs/Web/API/Fullscreen_API
