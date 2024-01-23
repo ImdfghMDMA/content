@@ -1,5 +1,7 @@
+modo escritoo 
 ---
-title: Strict mode
+title: Strict mo
+de
 slug: Glossary/Strict_mode
 page-type: glossary-definition
 ---
