@@ -38,8 +38,7 @@ A few examples:
 
 ## Encoding data into base64 format
 
-Base64 is a group of binary-to-text encoding schemes that represent binary data in an {{Glossary("ASCII")}} string format by translating it into a radix-64 representation. By consisting only of ASCII characters, base64 strings are generally url-safe, and that's why they can be used to encode data in Data URLs.
-
+b
 ### Encoding in JavaScript
 
 The Web APIs have native methods to encode or decode to base64: [Base64](/en-US/docs/Glossary/Base64).

@@ -1,3 +1,4 @@
+un
 ---
 title: Speculative parsing
 slug: Glossary/Speculative_parsing
@@ -10,8 +11,7 @@ Traditionally in browsers the HTML parser ran on the main thread and was blocked
 
 This document helps you avoid the kind of things that make speculation fail and slow down the loading of your page.
 
-To make speculative loads of linked scripts, style sheets and images successful, avoid {{domxref('document.write')}}. If you use a `<base>` element to override the base URI of your page, put the element in the non-scripted part of the document. Don't add it via `document.write()` or {{domxref('document.createElement')}}.
-
+ 
 ## Avoiding losing tree builder output
 
 Speculative tree building fails when `document.write()` changes the tree builder state such that the speculative state after the `</script>` tag no longer holds when all the content inserted by `document.write()` has been parsed. However, only unusual uses of `document.write()` cause trouble. Here are the things to avoid:
